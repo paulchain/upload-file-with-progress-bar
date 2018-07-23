@@ -77,13 +77,6 @@ $(document).ready(function() {
   <span class="notice">Your file has been uploaded.</span>
   <?php } ?>
   <form action="" method="post" enctype="multipart/form-data" name="form1" id="form1">
-    Name<br />
-    <input name="name" type="text" id="name"/>
-    <br />
-    <br />
-    Your email address <br />
-    <input name="email" type="text" id="email" size="35" />
-    <br />
     <br />
     Choose a file to upload<br />
 
